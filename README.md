@@ -1,0 +1,1 @@
+Here is a fully functional calculator application using Java and the Swing framework in Eclipse IDE. The application supports basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as additional functionalities like decimal input, clearing, deleting, and negating numbers.
